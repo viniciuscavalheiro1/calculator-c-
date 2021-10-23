@@ -1,0 +1,16 @@
+/home/vinicius/dotnet/Calculator/bin/Debug/net5.0/Calculator
+/home/vinicius/dotnet/Calculator/bin/Debug/net5.0/Calculator.deps.json
+/home/vinicius/dotnet/Calculator/bin/Debug/net5.0/Calculator.runtimeconfig.json
+/home/vinicius/dotnet/Calculator/bin/Debug/net5.0/Calculator.runtimeconfig.dev.json
+/home/vinicius/dotnet/Calculator/bin/Debug/net5.0/Calculator.dll
+/home/vinicius/dotnet/Calculator/bin/Debug/net5.0/ref/Calculator.dll
+/home/vinicius/dotnet/Calculator/bin/Debug/net5.0/Calculator.pdb
+/home/vinicius/dotnet/Calculator/obj/Debug/net5.0/Calculator.csproj.AssemblyReference.cache
+/home/vinicius/dotnet/Calculator/obj/Debug/net5.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinicius/dotnet/Calculator/obj/Debug/net5.0/Calculator.AssemblyInfoInputs.cache
+/home/vinicius/dotnet/Calculator/obj/Debug/net5.0/Calculator.AssemblyInfo.cs
+/home/vinicius/dotnet/Calculator/obj/Debug/net5.0/Calculator.csproj.CoreCompileInputs.cache
+/home/vinicius/dotnet/Calculator/obj/Debug/net5.0/Calculator.dll
+/home/vinicius/dotnet/Calculator/obj/Debug/net5.0/ref/Calculator.dll
+/home/vinicius/dotnet/Calculator/obj/Debug/net5.0/Calculator.pdb
+/home/vinicius/dotnet/Calculator/obj/Debug/net5.0/Calculator.genruntimeconfig.cache
